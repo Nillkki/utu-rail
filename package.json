@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Nillkki/utu-rail/issues"
   },
-  "homepage": "https://github.com/Nillkki/utu-rail#readme"
+  "homepage": "https://github.com/Nillkki/utu-rail#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
